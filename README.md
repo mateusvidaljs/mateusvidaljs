@@ -7,7 +7,7 @@
 
 I'm a web developer, with 8 years of experience, i startet in .NET and Java, and i've migrated to JavaScript, and i fell in love with it :heart:
 
-Now i am focused on NodeJS + React + React Native stack, because it proved to be very powerful and efficient!
+Now i am focused in NodeJS + React + React Native stack, because it proved to be very powerful and efficient!
 
 ## Langs and techs
 ### (always incrementing :smile:)
