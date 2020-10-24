@@ -1,6 +1,6 @@
 # Hey! :smile:
 [![LinkedIn Badge](https://img.shields.io/static/v1?label=&message=Mateus%20Vidal&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/mateusvidaldev/)
-[![Mail Badge](https://img.shields.io/static/v1?label=&message=mateusvidal.dev@gmail.com&color=grey&logo=gmail)](mailto:mateusvidal.dev@gmail.com)
+[![Mail Badge](https://img.shields.io/static/v1?label=&message=mateusvidal.dev@gmail.com&color=B5B5B5&logo=gmail)](mailto:mateusvidal.dev@gmail.com)
 
 
 ## About me
