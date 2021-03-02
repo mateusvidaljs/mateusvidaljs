@@ -35,6 +35,7 @@ Now i'm focused on the "NodeJS + React + React Native" stack, because it proved 
 #### Styles
 ![Badge](https://img.shields.io/static/v1?label=&message=Sass&color=grey&logo=sass&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Bootstrap&color=553D7C&logo=bootstrap&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Styled%20Components&color=3c3c3c&logo=styled-components&style=flat-square)
 
 #### Databases
 ![Badge](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&logo=postgresql&style=flat-square)
@@ -47,5 +48,15 @@ Now i'm focused on the "NodeJS + React + React Native" stack, because it proved 
 #### Testing
 ![Badge](https://img.shields.io/static/v1?label=&message=Jest&color=96737D&logo=jest&style=flat-square)
 
+#### Others
+![Badge](https://img.shields.io/static/v1?label=&message=Docker&color=fff&logo=docker&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Bower&color=fff&logo=bower&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=NPM&color=fff&logo=npm&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Yarn&color=fff&logo=yarn&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Grunt&color=fff&logo=grunt&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Gulp&color=fff&logo=gulp&style=flat-square)
+
 #### Current Learnings
 ![Badge](https://img.shields.io/static/v1?label=&message=Rust&color=CA4F17&logo=rust&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Jenkins&color=FFF&logo=jenkins&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Kubernetes&color=FFF&logo=kubernetes&style=flat-square)
