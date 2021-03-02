@@ -13,17 +13,27 @@ Now i'm focused on the "NodeJS + React + React Native" stack, because it proved 
 ## Langs and techs
 ### (always incrementing :smile:)
 
+#### Langs
 ![Badge](https://img.shields.io/static/v1?label=&message=JavaScript&color=grey&logo=javascript&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=TypeScript&color=017ACC&logo=typescript&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Java&color=8C2227&logo=java&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=C%23&color=642076&logo=c%20sharp&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=Rust&color=CA4F17&logo=rust&style=flat-square)
+
+#### Web
 ![Badge](https://img.shields.io/static/v1?label=&message=HTML5&color=F16849&logo=html5&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=CSS3&color=5EADEF&logo=css3&style=flat-square)
 
-![Badge](https://img.shields.io/static/v1?label=&message=NodeJS&color=darkgreen&logo=nodemon&style=flat-square)
+#### Frameworks
+![Badge](https://img.shields.io/static/v1?label=&message=NodeJS&color=FFF&logo=node.js&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=React&color=grey&logo=react&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=NextJS&color=000&logo=next.js&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=React%20Native&color=452A62&logo=react&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=&message=AngularJS&color=D61A15&logo=angularjs&style=flat-square)
 
+#### Styles
 ![Badge](https://img.shields.io/static/v1?label=&message=Sass&color=grey&logo=sass&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Bootstrap&color=553D7C&logo=bootstrap&style=flat-square)
 
+#### Testing
 ![Badge](https://img.shields.io/static/v1?label=&message=Jest&color=96737D&logo=jest&style=flat-square)
