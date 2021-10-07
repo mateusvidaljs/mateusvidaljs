@@ -5,7 +5,7 @@
 
 ## About me
 
-Hello there! My name is Mateus, I'm a brazillian web developer with almost 10 years of experience (since 15 years old, now i'm 24). 
+Hello there! My name is Mateus, I'm a brazillian web developer with almost 10 years of experience (since 15 years old, now I'm 24). 
 I startet learning programming with C# and Java, but I've migrated to JavaScript, and fell in love with it 🥰
 
 I'm current a tech leader for a company named EthosX, located in São Paulo - BR, We work with Web and Mobile solutions to optimize our costumers experience!
