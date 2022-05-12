@@ -32,10 +32,12 @@ Now I'm focused on the "Rust and TypeScript" stack, because it proved to be very
 
 ![Badge](https://img.shields.io/static/v1?label=&message=NodeJS&color=FFF&logo=node.js)
 ![Badge](https://img.shields.io/static/v1?label=&message=Express&color=3c3c3c&logo=express)
+![Badge](https://img.shields.io/static/v1?label=&message=Nest&color=FFF&logo=nest)
 ![Badge](https://img.shields.io/static/v1?label=&message=React&color=grey&logo=react)
 ![Badge](https://img.shields.io/static/v1?label=&message=NextJS&color=000&logo=next.js)
 ![Badge](https://img.shields.io/static/v1?label=&message=AngularJS&color=D61A15&logo=angularjs)
 ![Badge](https://img.shields.io/static/v1?label=&message=Angular&color=D61A15&logo=angular)
+![Badge](https://img.shields.io/static/v1?label=&message=VueJS&color=FFF&logo=vue.js)
 
 - Mobile:
 
@@ -45,6 +47,7 @@ Now I'm focused on the "Rust and TypeScript" stack, because it proved to be very
 - Java
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Spring&color=FFF&logo=spring)
+![Badge](https://img.shields.io/static/v1?label=&message=Quarkus&color=FFF&logo=quarkus)
 
 - C#
 
