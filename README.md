@@ -22,6 +22,7 @@ I'm current focused on the "Quarkus (Java) + React" stack, because it proved to 
 ![Badge](https://img.shields.io/static/v1?label=&message=Java&color=8C2227&logo=java)
 ![Badge](https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c%20sharp)
 ![Badge](https://img.shields.io/static/v1?label=&message=Rust&color=CA4F17&logo=rust)
+![Badge](https://img.shields.io/static/v1?label=&message=C&color=black&logo=c)
 ![Badge](https://img.shields.io/static/v1?label=&message=PHP&color=fff&logo=php)
 ![Badge](https://img.shields.io/static/v1?label=&message=Python&color=F8CC41&logo=python)
 ---
@@ -64,6 +65,8 @@ I'm current focused on the "Quarkus (Java) + React" stack, because it proved to 
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Flask&color=0D7660&logo=flask)
 ![Badge](https://img.shields.io/static/v1?label=&message=Face%20Recognition&color=EBEBEB&logo=python)
+![Badge](https://img.shields.io/static/v1?label=&message=DLib&color=008000&logo=dlib)
+![Badge](https://img.shields.io/static/v1?label=&message=OpenCV&color=5C3EE8&logo=opencv)
 
 ---
 #### 🖌️ StyleSheets
@@ -71,6 +74,7 @@ I'm current focused on the "Quarkus (Java) + React" stack, because it proved to 
 ![Badge](https://img.shields.io/static/v1?label=&message=LeSS&color=grey&logo=less)
 ![Badge](https://img.shields.io/static/v1?label=&message=Bootstrap&color=553D7C&logo=bootstrap)
 ![Badge](https://img.shields.io/static/v1?label=&message=Styled%20Components&color=3c3c3c&logo=styled-components)
+![Badge](https://img.shields.io/static/v1?label=&message=Semantic%20UI&color=3c3c3c&logo=semantic-ui-react)
 ---
 #### 🧮 DBs
 ![Badge](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=fff&logo=postgresql)
@@ -79,6 +83,7 @@ I'm current focused on the "Quarkus (Java) + React" stack, because it proved to 
 ![Badge](https://img.shields.io/static/v1?label=&message=SQLite&color=4BA3D7&logo=sqlite)
 ![Badge](https://img.shields.io/static/v1?label=&message=MongoDB&color=F7F7F7&logo=mongodb)
 ![Badge](https://img.shields.io/static/v1?label=&message=CouchDB&color=EA2328&logo=couchbase)
+![Badge](https://img.shields.io/static/v1?label=&message=Redis&color=ffffff&logo=redis)
 ---
 #### 🤖 Tests
 ![Badge](https://img.shields.io/static/v1?label=&message=Jest&color=96737D&logo=jest)
