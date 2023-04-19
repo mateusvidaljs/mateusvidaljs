@@ -9,7 +9,7 @@
 Yup! My name is Mateus, I'm a brazillian web developer with 10 years of experience (since i'm 15 years old). 
 I startet learning programming with .NET (C# + ASP.NET), Java (Spring, JSP, JSF) and PHP (5.3, vanilla), but I've migrated to JavaScript, and fell in love with it!
 
-I'm a solution architect for a company named EthosX, located in São Paulo, Brazil! We work with Web, Mobile and API solutions to optimize our costumers experience!
+I'm a solution architect for a company named EthosX, located in São Paulo, Brazil! We work with Web, Mobile, ERP and API solutions to optimize our costumers experience!
 
 I'm current focused on the "Quarkus (Java) + React" stack, because it proved to be very powerful and efficient!
 
