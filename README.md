@@ -21,10 +21,10 @@ I'm current focused on the "Quarkus (Java) + React" stack, because it proved to 
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=TypeScript&color=fff&logo=typescript)
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Java&color=8C2227&logo=java)
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=239120&logo=c%20sharp)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Rust&color=CA4F17&logo=rust)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C&color=black&logo=c)
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHP&color=fff&logo=php)
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=F8CC41&logo=python)
+![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Kotlin&color=97135d&logo=kotlin)
+![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Swift&color=FFFFFF&logo=swift)
 ---
 #### Web
 ![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=HTML5&color=fff&logo=html5)
