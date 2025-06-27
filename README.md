@@ -1,5 +1,5 @@
 # Hi there! 🙋‍♂
-[![LinkedIn Badge](https://img.shields.io/static/v1?label=&message=Mateus%20Vidal&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/mateusvidaldev/)
+[![LinkedIn Badge](https://img.shields.io/static/v1?label=&message=Mateus%20Vidal&color=0077B5&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgogIDxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N1oiLz4KPC9zdmc+)](https://www.linkedin.com/in/mateusvidaldev/)
 [![Mail Badge](https://img.shields.io/static/v1?label=&message=mateusvidal.dev@gmail.com&color=B5B5B5&logo=gmail)](mailto:mateusvidal.dev@gmail.com)
 
 ## 🤓 About me
