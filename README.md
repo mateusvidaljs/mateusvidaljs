@@ -2,8 +2,6 @@
 [![LinkedIn Badge](https://img.shields.io/static/v1?label=&message=Mateus%20Vidal&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/mateusvidaldev/)
 [![Mail Badge](https://img.shields.io/static/v1?label=&message=mateusvidal.dev@gmail.com&color=B5B5B5&logo=gmail)](mailto:mateusvidal.dev@gmail.com)
 
-<img src="https://i.pinimg.com/originals/e3/18/ce/e318ceb53eb41fb97c42d900968b357f.jpg" alt="Meme Java" width="200" />
-
 ## 🤓 About me
 
 Yup! My name is Mateus, I'm a brazillian web developer with 10 years of experience (since i'm 15 years old). 
