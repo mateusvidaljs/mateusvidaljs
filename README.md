@@ -4,13 +4,15 @@
 
 ## 🤓 About me
 
-Hey! I’m Mateus, a Brazilian web developer who’s been in love with coding since I was 15 (yeah, that means over 13 years writing code 😅).
+Hey! I’m Mateus — a Brazilian dev who fell in love with coding when I was 15.  
+Fast-forward 13+ years, and I’m still here, happily living between commits, bugs, and coffee ☕💻.
 
-I kicked things off with .NET (C# + ASP.NET), Java (Spring, JSP, JSF), and good old PHP (5.3, plain and raw). But once I discovered JavaScript, there was no turning back — that’s where I really found my passion! 🚀
+I started my journey with **.NET, Java, and a bit of raw PHP**, but when I met **JavaScript**, it was love at first sight 🚀 (and TypeScript later became my partner in crime).
 
-Today, I’m a Solution Architect at EthosX, in São Paulo, where we build all sorts of cool stuff — from Web and Mobile apps to ERP systems and APIs — always focused on making our customers’ lives easier.
+Currently, I’m a **Solution Architect** at **EthosX** (São Paulo, Brazil), where we craft all kinds of awesome stuff — Web apps, Mobile solutions, ERPs, and APIs — always aiming to make our customers’ lives easier. ✨
 
-Right now, I’m diving deep into the NestJS + Angular stack. It’s fast, efficient, and honestly? A joy to work with. 💻✨
+Lately, my main playground has been the **NestJS + Angular** stack, which I find fast, reliable, and honestly… just fun to work with! 😎
+
 
 ## 🧠 Brain Knowledge Database
 ### (always inserting data 🧐)
