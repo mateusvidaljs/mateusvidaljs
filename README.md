@@ -75,35 +75,13 @@ Lately, my main playground has been the **NestJS + Angular** stack, which I find
 ![DLib](https://img.shields.io/badge/DLib-008000?style=flat-square&logo=python&logoColor=fff)
 
 ---
-#### 🖌️ StyleSheets
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SaSS&color=grey&logo=sass)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=LeSS&color=grey&logo=less)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Bootstrap&color=553D7C&logo=bootstrap)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Styled%20Components&color=3c3c3c&logo=styled-components)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Semantic%20UI&color=3c3c3c&logo=semantic-ui-react)
----
-#### 🧮 DBs
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PostgreSQL&color=fff&logo=postgresql)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=MySQL&color=F7F7F7&logo=mysql)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL%20Server&color=CC2927&logo=microsoft%20sql%20server)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQLite&color=4BA3D7&logo=sqlite)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=MongoDB&color=F7F7F7&logo=mongodb)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=CouchDB&color=EA2328&logo=couchbase)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Redis&color=ffffff&logo=redis)
----
-#### 🤖 Tests
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Jest&color=96737D&logo=jest)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Selenium&color=fff&logo=selenium)
----
-#### 🔡 Misc 
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Docker&color=fff&logo=docker)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Bower&color=fff&logo=bower)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=NPM&color=fff&logo=npm)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Yarn&color=fff&logo=yarn)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Grunt&color=fff&logo=grunt)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Gulp&color=fff&logo=gulp)
----
-#### 📖 Under Study 
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Jenkins&color=FFF&logo=jenkins)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Kubernetes&color=FFF&logo=kubernetes)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Svelte&color=FFF&logo=svelte)
+#### 🧮 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![CouchDB](https://img.shields.io/badge/CouchDB-EA2328?style=flat-square&logo=apachecouchdb&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+
