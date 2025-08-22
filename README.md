@@ -21,9 +21,6 @@ Lately, my main playground has been the **NestJS + Angular** stack, which I find
 ## 🧠 Brain Knowledge Database
 ### (always inserting data 🧐)
 
-## 🧠 Brain Knowledge Database
-### (always inserting data 🧐)
-
 #### 🔤 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
