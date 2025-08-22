@@ -21,55 +21,58 @@ Lately, my main playground has been the **NestJS + Angular** stack, which I find
 ## 🧠 Brain Knowledge Database
 ### (always inserting data 🧐)
 
-#### Langs
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=grey&logo=javascript)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=TypeScript&color=fff&logo=typescript)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Java&color=8C2227&logo=java)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=239120&logo=c%20sharp)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Kotlin&color=97135d&logo=kotlin)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Swift&color=FFFFFF&logo=swift)
+## 🧠 Brain Knowledge Database
+### (always inserting data 🧐)
+
+#### 🔤 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=fff)
+
 ---
-#### Web
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=HTML5&color=fff&logo=html5)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=CSS3&color=5EADEF&logo=css3)
+
+#### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Less](https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff)
+
 ---
-#### Frameworks/Libs
-- JS/TS: 
 
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=NodeJS&color=FFF&logo=node.js)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Express&color=3c3c3c&logo=express)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=NestJS&color=E0234E&logo=nestjs)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=React&color=grey&logo=react)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=NextJS&color=000&logo=next.js)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=AngularJS&color=D61A15&logo=angularjs)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Angular&color=D61A15&logo=angular)
+#### ⚙️ Frameworks & Libs
+- **JS/TS**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
 
-- Mobile:
+- **Mobile**
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
 
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Ionic&color=fff&logo=ionic)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=React%20Native&color=452A62&logo=react)
+- **Java**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=fff)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=fff)
 
-- Java
+- **C#**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
 
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Spring&color=FFF&logo=spring)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Quarkus&color=FFF&logo=quarkus)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Hibernate&color=B6A875&logo=hibernate)
+- **PHP**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
 
-- C#
-
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=.NET&color=blue&logo=.net)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Entity%20Framework&color=blue&logo=c%20sharp)
-
-- PHP
-
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Laravel&color=EBEBEB&logo=laravel)
-
-- Python
-
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Flask&color=0D7660&logo=flask)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Face%20Recognition&color=EBEBEB&logo=python)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=DLib&color=008000&logo=dlib)
-![Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=OpenCV&color=5C3EE8&logo=opencv)
+- **Python**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff)
+![DLib](https://img.shields.io/badge/DLib-008000?style=flat-square&logo=python&logoColor=fff)
 
 ---
 #### 🖌️ StyleSheets
